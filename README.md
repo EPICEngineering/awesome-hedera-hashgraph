@@ -11,6 +11,7 @@ Awesome Archive of Hedera Hashgraph Tools
 - https://docs.hedera.com/guides/docs/sdks/transactions/modify-transaction-fields
 
 ## Hedera Token Service
+https://hedera.com/blog/previewnet-hedera-token-service-hts-early-access
 
 ### .NET SDK Approach
 - https://hedera.com/blog/creating-tokens-hedera-net-part-1

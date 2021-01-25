@@ -19,5 +19,8 @@ Awesome Archive of Hedera Hashgraph Tools
 ### .NET SDK Approach
 - https://hedera.com/blog/creating-tokens-hedera-net-part-1
 
+### Hedera Consensus Service Web App
+- https://hedera.com/blog/build-your-first-hcs-powered-web-app
+
 
 

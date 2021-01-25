@@ -1,6 +1,9 @@
 # awesome-hedera-hashgraph
 Awesome Archive of Hedera Hashgraph Tools
 
+## Hedera TestNet
+- https://portal.hedera.com/?network=testnet
+
 ## Hedera Token Service
 
 ### .NET SDK Approach
